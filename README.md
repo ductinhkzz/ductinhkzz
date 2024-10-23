@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **anything related to Javascript or Typescript**
 
-- 📄 Know about my experiences [more than 5 years](more than 5 years)
+- 📄 Know about my experiences more than 5 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
