@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ghost Alpha</h1>
-<h3 align="center">A fullstack developer from Vietnam</h3>
+<h3 align="center">A fullstack developer</h3>
+
+- 🌱 I’m currently learning **New technologies**
+
+- 💬 Ask me about **anything related to Javascript or Typescript**
+
+- 📄 Know about my experiences [more than 5 years](more than 5 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
